@@ -126,7 +126,7 @@ data-warehouse-project/
 ### ☕ Connect With Me
 
 Let’s connect and learn together!
-I’m Akhil Satyanarayan Chukkalwar, a passionate Data Enthusiast and Frontend Developer with strong interests in Data Engineering, Analytics, and Cloud Technologies.
+I’m Akhil Satyanarayan Chukkalwar, a passionate Data Enthusiast with strong interests in Data Engineering, Analytics, and Cloud Technologies.
 
 ☕ Stay Connected
 Let's stay in touch! Feel free to connect with me on the following platforms:
