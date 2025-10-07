@@ -96,6 +96,7 @@ For more details, refer to docs/data_catelog.md
 .
 
 ### 📂 Repository Structure
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets (ERP and CRM)
@@ -119,7 +120,8 @@ data-warehouse-project/
 ├── LICENSE                             # License information
 ├── .gitignore                          # Git ignored files
 └── requirements.txt                    # Project dependencies
-
+```
+-----
 
 ### ☕ Connect With Me
 
