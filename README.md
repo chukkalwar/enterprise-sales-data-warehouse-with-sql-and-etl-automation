@@ -92,8 +92,9 @@ Sales trends
 
 These insights empower decision-makers to act on data-driven findings.
 
-For more details, refer to docs/data_catelog.md
-.
+For more details, refer to docs/data_catelog.md.
+
+
 
 ### 📂 Repository Structure
 ```
@@ -118,7 +119,6 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview
 ├── LICENSE                             # License information
-├── .gitignore                          # Git ignored files
 └── requirements.txt                    # Project dependencies
 ```
 -----
